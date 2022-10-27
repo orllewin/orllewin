@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @orllewin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-orllewin/orllewin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in socialism, climate breakdown, the collapse 
+- 🌱 I’m currently learning Dart, Flutter, Lua.
+- 📫 How to reach me: orllewin@fastmail.uk
